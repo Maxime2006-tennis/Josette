@@ -1,0 +1,43 @@
+body{background-color:rgb(300,300,300) ;
+	font-family:sans-serif;
+	font-size: 30px;
+	line-height:40px;
+	text-align:center;
+}	
+
+h1{color:red;
+	font-variant:small-caps;
+	font-size: 70px;
+	letter-spacing:1px;
+}
+
+h2{color: red;
+}
+
+.titre{margin:50px 25px;
+}
+
+p{color:black;
+}
+
+a{color:green;
+	text-decoration: none;/*indique que pour les liens aucune décoration*/
+}
+
+a:hover{color:red;/*indique la couleur du lien lorsque l'on passe la souris dessus*/
+
+}
+
+div{
+	border-width:2px;
+	border-radius:20px;
+	margin:50px 100px;
+	padding:15px;
+	box-shadow:20px 20px 30px black;
+}
+
+img{border-radius:10px;
+}
+
+figcaption{font-variant:small-caps;
+}
